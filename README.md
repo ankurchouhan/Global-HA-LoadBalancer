@@ -362,15 +362,3 @@ If you expect failure — and still want to ship reliably — this platform is b
 ## 📜 License
 
 MIT License
-
-What this README gives you
-
-✅ Enterprise-quality documentation (not a blog post)
-
-✅ Clear architecture narrative aligned with Netflix-style systems
-
-✅ Terraform-first explanation (infra as a platform)
-
-✅ Exec-friendly + engineer-friendly
-
-✅ Suitable for open-source or internal platform teams
