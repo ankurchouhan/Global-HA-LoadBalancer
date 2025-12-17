@@ -37,6 +37,17 @@ This is **not a demo**. It is designed for teams that **expect failure and engin
 * 🔄 Fully automated CI/CD pipelines
 * 🧠 Failure isolation & blast-radius reduction
 
+
+## 📊 Availability & Reliability Targets
+
+- **Single ALB (AWS SLA)**: ~99.99% availability (~0.01% max downtime)
+- **Multi-Region Platform (Observed)**: Effectively zero downtime for most failure scenarios
+- **Published Platform SLO**: **99.95%** (conservative, enterprise-grade target)
+
+> The published SLO is intentionally lower than the system’s theoretical capability
+> to preserve error budgets and allow safe operational change.
+
+
 ---
 
 ## 🏗️ High-Level Architecture
